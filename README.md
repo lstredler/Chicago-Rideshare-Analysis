@@ -1,5 +1,3 @@
-# Chicago-Rideshare-Analysis
-Using publicly available data provided by the City of Chicago, our group plans to analyze questions about transportation network providers (rideshare apps)
 Project Title: Chicago Rideshare Analysis
 
 Team Names:
@@ -17,15 +15,15 @@ Thomas Westerkamp
 Project Description/Outline:
 Using publicly available data provided by the City of Chicago, our group plans to analyze questions about transportation network providers (rideshare apps).
 
-Research Questions to Answer: (can be year specific - 2020)
-Most popular pickup/drop off locations(lat/long) (2020)(gmap option - heat map) - Scott
+Research Questions to Answer: (can be year specific - March 2020)
+Most popular pickup/drop off locations(lat/long) (March 2020)(gmap option - heat map) - Scott
 Which zipcode(s) are most drivers from? (bar chart) - Kiril 
-Most popular make, model, color of rideshare vehicles(2020) (bar chart) - Kiril 
-Outliers for longest/shortest ride (in 2020) (scatter plot) - Lauren 
-Average distance or time for rides (in 2020) (gmap option) -  Lauren 
-Which month are drivers busiest? (in 2020) (bar chart) - Rachel 
-2019 vs 2020 rideshare use during the pandemic (bar chart) - Rachel 
-2019 vs 2020 average tip percent? - Thomas 
+Most popular make, model, color of rideshare vehicles (2020) (bar chart) - Kiril 
+Outliers for longest/shortest ride (in March) (scatter plot) - Lauren 
+Average distance or time for rides (March 2020) (gmap option) -  Lauren 
+Which month are drivers busiest? (March 2020) (bar chart) - Rachel 
+March 2019 vs March 2020 rideshare use during the pandemic (bar chart) - Rachel 
+March 2019 vs March 2020 average tip percent? - Thomas 
 Any correlation between fare and tip? - Thomas 
 
 Potential Bonus 
@@ -65,6 +63,3 @@ Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, 
 Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 (Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions.
 Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
-
-
-
