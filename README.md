@@ -41,19 +41,19 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 [CMAP Chicago Community Area Data Snapshot](https://datahub.cmap.illinois.gov/dataset/community-data-snapshots-raw-data)
 
 ## Conclusions 📊
-* What were the most popular pickup/drop off locations in March 2020?
+* **What were the most popular pickup/drop off locations in March 2020?**
   * Most trips were within a few areas clustered around downtown, and there’s a slight correlation between the number of rideshare pickups and an area’s median annual income.
-* Which zipcode(s) are most drivers from?
+* **Which zipcode(s) are most drivers from?**
   * The rideshare drivers are living predominantly in the north side of the city around the Lincoln Square area. 
-* Most popular make, model, color of rideshare vehicles in 2020?
+* **Most popular make, model, color of rideshare vehicles in 2020?**
   * The most common vehicle used for rideshare in Chicago is Toyota Camry and the most common color is black.
-* How long was the average ride? What was the longest ride?
+* **How long was the average ride? What was the longest ride?**
   * Most Frequent Distance to travel was between 1-2 Miles and the furthest distance traveled in March 2020 was 355.3 Miles
-* Which days were drivers busiest? Did Covid impact the number of rides per day?
+* **Which days were drivers busiest? Did Covid impact the number of rides per day?**
   * We can demonstrate that drivers were busiest on weekends and that use of rideshare services fell after lockdown orders were put in place in March 2020.
-* How many rides were carpooled/shared rides? Did that number change after Covid? 
+* **How many rides were carpooled/shared rides? Did that number change after Covid?** 
   * Carpool trips began to drop by about 50% before the carpool feature was turned off by Uber and Lyft.
-* Tip and fare amount per day March 2020?
+* **Tip and fare amount per day March 2020?**
   * Average Trip Total, Fare, and tips per day did not significantly change during March 2020
 
 
