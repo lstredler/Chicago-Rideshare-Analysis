@@ -1,19 +1,19 @@
 # Chicago Rideshare Analysis 🚗
 
-## Description 🚙
+### Description 🚙
 Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org/), we intended to analyze rideshare data to:
 * Gather general insights about rideshare trips, drivers, and vehicles
 * See how trips changed once Covid hit and lockdowns went into effect
 * Build a profile of what a driver's experience would have been in March 2020
 
-## Analysts 👩‍💻👨‍💻
+### Analysts 👩‍💻👨‍💻
 * Kiril Ivanov
 * Lauren Stredler
 * Rachel Thorpe (she/her)
 * Scott Gall (he/him)
 * Thomas Westerkamp
 
-## Technology Used 💻
+### Technology Used 💻
 * Python
 * Jupyter Notebooks
 * Pandas
@@ -23,7 +23,7 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 * Gmaps
 * Folium
 
-## Datasets Used 📈
+### Datasets Used 📈
 [City of Chicago Transportation Network Providers - Vehicles](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Vehicles/bc6b-sq4u)
 
 [City of Chicago Transportation Network Providers - Drivers](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Drivers/j6wf-834c)
@@ -40,7 +40,7 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 
 [CMAP Chicago Community Area Data Snapshot](https://datahub.cmap.illinois.gov/dataset/community-data-snapshots-raw-data)
 
-## Conclusions 📊
+### Conclusions 📊
 * **What were the most popular pickup/drop off locations in March 2020?**
   * Most trips were within a few areas clustered around downtown, and there’s a slight correlation between the number of rideshare pickups and an area’s median annual income.
 * **Which zipcode(s) are most drivers from?**
