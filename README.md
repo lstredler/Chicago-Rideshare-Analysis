@@ -40,4 +40,12 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 
 [CMAP Chicago Community Area Data Snapshot](https://datahub.cmap.illinois.gov/dataset/community-data-snapshots-raw-data)
 
+## Conclusions 📊
+* Most Frequent Distance to travel was between 1-2 Miles and the furthest distance traveled in March 2020 was 355.3 Miles.
+* Most trips were within a few areas clustered around downtown, and there’s a slight correlation between number of rideshare pickups and an area’s median annual income.
+* The most common vehicle used for rideshare in Chicago is Toyota Camry and the most common color is black.
+* The rideshare drivers are living predominantly in the north side of the city around Lincoln Square area. 
+* We can demonstrate that use of rideshare services fell after lockdown orders were put in place.
+
+
 
