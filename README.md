@@ -24,21 +24,21 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 * Folium
 
 ### Datasets Used 📈
-[City of Chicago Transportation Network Providers - Vehicles](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Vehicles/bc6b-sq4u)
+* [City of Chicago Transportation Network Providers - Vehicles](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Vehicles/bc6b-sq4u)
 
-[City of Chicago Transportation Network Providers - Drivers](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Drivers/j6wf-834c)
+* [City of Chicago Transportation Network Providers - Drivers](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Drivers/j6wf-834c)
 
-[Cleaned Chicago Rideshare Vehicle data on Kaggle](https://www.kaggle.com/subwaymatch/chicago-uberlyft-vehicles) 
+* [Cleaned Chicago Rideshare Vehicle data on Kaggle](https://www.kaggle.com/subwaymatch/chicago-uberlyft-vehicles) 
 
-[City of Chicago Transportation Network Providers - Trips 2020](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2020/rmc8-eqv4) 
+* [City of Chicago Transportation Network Providers - Trips 2020](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2020/rmc8-eqv4) 
 
-[City of Chicago Transportation Network Providers - Trips 2019](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2019/iu3g-qa69) 
+* [City of Chicago Transportation Network Providers - Trips 2019](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips-2019/iu3g-qa69) 
 
-[Chicago Community Areas GeoJSON](https://www.kaggle.com/doyouevendata/chicago-community-areas-geojson)
+* [Chicago Community Areas GeoJSON](https://www.kaggle.com/doyouevendata/chicago-community-areas-geojson)
 
-[Chicago Community Areas](https://data.cityofchicago.org/resource/igwz-8jzy)
+* [Chicago Community Areas](https://data.cityofchicago.org/resource/igwz-8jzy)
 
-[CMAP Chicago Community Area Data Snapshot](https://datahub.cmap.illinois.gov/dataset/community-data-snapshots-raw-data)
+* [CMAP Chicago Community Area Data Snapshot](https://datahub.cmap.illinois.gov/dataset/community-data-snapshots-raw-data)
 
 ### Conclusions 📊
 * **What were the most popular pickup/drop off locations in March 2020?**
