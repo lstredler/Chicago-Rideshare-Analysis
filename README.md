@@ -6,6 +6,9 @@ Starting with data from the [Chicago Data Portal](https://data.cityofchicago.org
 * See how trips changed once Covid hit and lockdowns went into effect
 * Build a profile of what a driver's experience would have been in March 2020
 
+## Presentation Link 🚘
+https://docs.google.com/presentation/d/1OH3zrFOblhmTjvx1RKXLZ1VkDdqRME6WaIE_Y3L4nyM/edit
+
 ### Analysts 👩‍💻👨‍💻
 * Kiril Ivanov
 * Lauren Stredler
